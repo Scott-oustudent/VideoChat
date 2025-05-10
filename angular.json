@@ -119,5 +119,8 @@
       }
     }
   },
-  "defaultProject": "cometchat-chat-sample-app-angular"
+  "defaultProject": "cometchat-chat-sample-app-angular",
+  "cli": {
+    "analytics": false
+  }
 }
